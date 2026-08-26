@@ -16,10 +16,6 @@ The implementation includes data preprocessing, class-imbalance handling using S
 
 The study uses a publicly available credit card fraud detection dataset.
 
-Dataset source:
-
-https://www.kaggle.com/mlg-ulb/creditcardfraud
-
 The dataset contains credit card transactions with a binary target variable indicating whether a transaction is fraudulent or legitimate.
 
 Due to dataset licensing and redistribution restrictions, the original dataset is not included in this repository.
